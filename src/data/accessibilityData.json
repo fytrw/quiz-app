@@ -1,0 +1,62 @@
+[
+    {
+      "question": "Which of these color contrast ratios defines the minimum WCAG 2.1 Level AA requirement for normal text?",
+      "options": ["4.5 : 1", "3 : 1", "2.5 : 1", "5 : 1"],
+      "answer": "4.5 : 1"
+    },
+    {
+      "question": "What does the acronym WCAG stand for?",
+      "options": [
+        "Web Content Accessibility Guidelines",
+        "Web Community Accessible Guidelines",
+        "Web Compliance Accessibility Guidelines",
+        "World Wide Compliance Access Guide"
+      ],
+      "answer": "Web Content Accessibility Guidelines"
+    },
+    {
+      "question": "Which ARIA role should be used for an interactive button?",
+      "options": ["role=\"banner\"", "role=\"button\"", "role=\"image\"", "role=\"link\""],
+      "answer": "role=\"button\""
+    },
+    {
+      "question": "What is the minimum font size recommended by WCAG for body text?",
+      "options": ["10px", "12px", "14px", "16px"],
+      "answer": "16px"
+    },
+    {
+      "question": "What does ARIA stand for?",
+      "options": [
+        "Accessible Rich Internet Applications",
+        "Advanced Rich Internet Applications",
+        "Asynchronous Rich Internet Applications",
+        "Authorized Rich Internet Applications"
+      ],
+      "answer": "Accessible Rich Internet Applications"
+    },
+    {
+      "question": "Which HTML attribute is used to describe the purpose of an image for visually impaired users?",
+      "options": ["title", "alt", "longdesc", "src"],
+      "answer": "alt"
+    },
+    {
+      "question": "Which WCAG principle ensures that contents are distinguishable and understandable?",
+      "options": ["Perceivable", "Operable", "Understandable", "Robust"],
+      "answer": "Understandable"
+    },
+    {
+      "question": "Which of the following attributes is used to provide a text equivalent for non-text content in HTML?",
+      "options": ["role", "aria-label", "alt", "title"],
+      "answer": "alt"
+    },
+    {
+        "question": "Which of these input types helps to ensure the correct format for email entries?",
+        "options": ["<input type=\"url\">", "<input type=\"email\">", "<input type=\"text\">", "<input type=\"submit\">"],
+        "answer": "<input type=\"email\">"
+    },
+    {
+        "question": "What ARIA attribute is used to announce dynamic changes in content to screen readers?",
+        "options": ["aria-live", "aria-atomic", "aria-disabled", "aria-expanded"],
+        "answer": "aria-live"
+    }
+]  

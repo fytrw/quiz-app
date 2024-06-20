@@ -1,0 +1,57 @@
+[
+  {
+      "question": "Which of these properties is used to change the text color in CSS?",
+      "options": ["color", "background-color", "font-color", "text-color"],
+      "answer": "color"
+  },
+  {
+      "question": "What does the acronym CSS stand for?",
+      "options": [
+          "Cascading Style Sheets",
+          "Computer Style Sheets",
+          "Colorful Style Sheets",
+          "Creative Styling Structure"
+      ],
+      "answer": "Cascading Style Sheets"
+  },
+  {
+      "question": "Which of these properties is used to add space between elements?",
+      "options": ["padding", "border", "space", "margin"],
+      "answer": "margin"
+  },
+  {
+      "question": "Which of these properties is used to add space inside an element, around its content?",
+      "options": ["inside-spacing", "padding", "margin", "border"],
+      "answer": "padding"
+  },
+  {
+      "question": "Which of these pseudo-classes is used to apply a style to an element when the user mouses over it?",
+      "options": [":hover", ":click", ":mouseover", ":focus"],
+      "answer": ":hover"
+  },
+  {
+      "question": "Which property is used to create rounded corners in CSS?",
+      "options": ["corner-radius", "border-style", "border-radius", "round-corners"],
+      "answer": "border-radius"
+  },
+  {
+      "question": "Which CSS property is used to change the background color of an element?",
+      "options": ["color", "bgcolor", "background-color", "background"],
+      "answer": "background-color"
+  },
+  {
+      "question": "Which of these properties is used to change the font size of text?",
+      "options": ["text-style", "font-size", "text-size", "font-style"],
+      "answer": "font-size"
+  },
+  {
+      "question": "How do you select an element with the id 'example' in CSS?",
+      "options": ["#example", ".example", "example", "*example*"],
+      "answer": "#example"
+  },
+  {
+      "question": "Which property is used to specify the width of an element's border?",
+      "options": ["border-width", "border-height", "border-size", "border-length"],
+      "answer": "border-width"
+  }
+]
